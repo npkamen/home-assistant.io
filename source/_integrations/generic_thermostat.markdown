@@ -143,8 +143,6 @@ climate:
     target_temp: 17
     cold_tolerance: 0.3
     hot_tolerance: 0
-    min_cycle_duration:
-      seconds: 5
     keep_alive:
       minutes: 3
     initial_hvac_mode: "off"
